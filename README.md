@@ -1,2 +1,2 @@
 # CurrencyConverApp
-MVVM | Hilt | Retrofit | Ktotlin | StateFlows
+MVVM | Hilt | Retrofit | Kotlin | StateFlows
